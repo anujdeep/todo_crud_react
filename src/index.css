@@ -1,0 +1,41 @@
+/* *{
+  box-sizing: border-box;
+} */
+.title{
+  color:red;
+  text-align: center;
+}
+.btn{
+  border: none;
+  background-color: tomato;
+  color:white;
+}
+.card{
+  border: 1px solid grey;
+  border-radius: 8px;
+  width:20%;
+  margin:0 auto;
+  padding: 10px;
+}
+.btn-update{
+  border: none;
+  background-color: skyblue;
+  color:white;
+}
+.flex{
+  display: flex;
+  justify-content: center;
+  gap:5vw;
+}
+.flex-btn{
+  display: flex;
+  justify-content: center;
+  gap:5vw;
+}
+ul li{
+  list-style-type: none;
+}
+li{
+  list-style-type: none;
+  margin-top: 5vh;
+}
